@@ -3,6 +3,7 @@
 <p align="center">
   <b>Full-Stack Developer · Competitive Programmer · Builder</b><br/>
   <sub>Final-year CS undergrad @ GL Bajaj (2023–27) · GPA 8.7 · Greater Noida, India</sub>
+  ![](https://komarev.com/ghpvc/?username=Apoorv-Saxena08)
 </p>
 
 <p align="center">
@@ -50,6 +51,12 @@ React  ·  Node.js  ·  Express.js  ·  MongoDB  ·  Firebase  ·  EJS  ·  REST
 ```
 Git  ·  GitHub  ·  VS Code  ·  Postman  ·  Notion  ·  Claude  ·  Antigravity  ·  Cursor 
 ```
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,js,express,git,github,mongodb,nodejs" />
+  </a>
+</p>
 
 ---
 
