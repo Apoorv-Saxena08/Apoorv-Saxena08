@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Developer · Competitive Programmer · Builder</b><br/>
-  <sub>Final-year CS undergrad @ GL Bajaj (2023–27) · GPA 8.7 · Jaipur, India</sub>
+  <sub>Final-year CS undergrad @ GL Bajaj (2023–27) · GPA 8.7 · Greater Noida, India</sub>
 </p>
 
 <p align="center">
