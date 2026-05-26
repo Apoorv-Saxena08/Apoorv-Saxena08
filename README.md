@@ -78,7 +78,7 @@ A visual, interactive route-finder for the Delhi Metro network. Computes shortes
 - Real-time visual route rendering
 - Stack: `HTML · CSS · JavaScript · DSA`
 
-**[→ Live Demo](#)** &nbsp;|&nbsp; **[→ GitHub](https://github.com/Apoorv-Saxena08/Delhi-metro-path-finder)**
+**[→ Live Demo](https://delhi-metro-path-finder.netlify.app/)** &nbsp;|&nbsp; **[→ GitHub](https://github.com/Apoorv-Saxena08/Delhi-metro-path-finder)**
 
 ---
 
