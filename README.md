@@ -4,8 +4,6 @@
   <b>Full-Stack Developer · Competitive Programmer · Builder</b><br/>
   <sub>Final-year CS undergrad @ GL Bajaj (2023–27) · GPA 8.7 · Greater Noida, India</sub>
 </p>
-![](https://komarev.com/ghpvc/?username=Apoorv-Saxena08)
-
 
 <p align="center">
   <a href="https://linkedin.com/in/apoorvsaxena08">
@@ -126,6 +124,8 @@ I take CP seriously. Here's the proof:
 | 🔵 GeeksForGeeks | **120+ problems** |
 
 > I don't just solve easy arrays to say I practice DSA. I compete.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/apoorvsaxena0108?theme=dark&font=Sansita%20Swashed&ext=contest)
 
 ## Let's Connect
 
