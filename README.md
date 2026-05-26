@@ -125,7 +125,7 @@ I take CP seriously. Here's the proof:
 
 > I don't just solve easy arrays to say I practice DSA. I compete.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/apoorvsaxena0108?theme=dark&font=Sansita%20Swashed&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/apoorvsaxena0108?theme=dark&font=Sansita%20Swashed&ext=heatmap)
 
 ## Let's Connect
 
